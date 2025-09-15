@@ -107,13 +107,6 @@ python mla.py -f todos.yml -i inventory.yml
 
 ---
 
-## 👥 Auteurs
-
-Projet réalisé en binôme dans le cadre du module **TIC-NUX4** (ETNA).
-Durée : **3 runs** · Environnement : **Debian**
-
----
-
 ## 📚 Ressources
 
 * [Documentation Ansible](https://docs.ansible.com/)
